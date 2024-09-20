@@ -1,0 +1,7 @@
+reservation_form.form:
+  path: '/reservation'
+  defaults:
+    _form: '\Drupal\reservation_form\Form\ReservationForm'
+    _title: 'Réserver'
+  requirements:
+    _permission: 'access content'
