@@ -1,0 +1,12 @@
+# Ignore les fichiers DDEV
+.ddev/
+
+# Ignore le répertoire des dépendances de Composer
+vendor/
+
+# Ignore les fichiers générés par Drupal
+web/sites/default/files/
+web/sites/default/settings.php
+
+# Ignore les fichiers de configuration de l'environnement
+.env
