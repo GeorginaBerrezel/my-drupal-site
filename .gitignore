@@ -10,3 +10,7 @@ web/sites/default/settings.php
 
 # Ignore les fichiers de configuration de l'environnement
 .env
+
+
+#  Ignore backup files
+web/modules/contrib/backup_migrate/
