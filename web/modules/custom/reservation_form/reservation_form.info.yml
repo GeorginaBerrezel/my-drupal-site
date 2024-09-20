@@ -1,0 +1,8 @@
+name: 'Reservation Form'
+type: module
+description: 'Module personnalisé pour ajouter un formulaire de réservation.'
+core_version_requirement: ^9 || ^10
+package: Custom
+version: 1.0
+dependencies:
+  - node
